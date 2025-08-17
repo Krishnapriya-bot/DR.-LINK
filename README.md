@@ -5,8 +5,10 @@ Dr Link is a smart healthcare platform prototype that helps patients discover th
 The goal is to make doctor discovery, comparison, and booking easy, trusted, and accessible for everyone.  
 
 ---
+
 Design & Prototyping: Figma  
 Link : https://www.figma.com/design/9gKTdSqkGM9KxuU3dsvlpP?node-id=254-168
+
 ---
 
 🔮 Future Scope  
