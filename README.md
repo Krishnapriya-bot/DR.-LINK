@@ -20,3 +20,7 @@ Link : https://www.figma.com/design/9gKTdSqkGM9KxuU3dsvlpP?node-id=254-168
 ---
 👨‍💻 Team  
 Developed as part of an ideathon project to improve trust and accessibility in healthcare. 
+
+
+https://github.com/user-attachments/assets/a842239a-a352-467c-82e6-0224c7f67f19
+
